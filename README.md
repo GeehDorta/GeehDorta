@@ -5,6 +5,6 @@ Meu nome é Geovana Dorta
 - Estou estudando na Alura
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ### Para entrar em contato comigo 📭
+### Para entrar em contato comigo 📭
 
-  geovana.dorta@escola.pr.gov.br
+geovana.dorta@escola.pr.gov.br
